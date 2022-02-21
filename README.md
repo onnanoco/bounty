@@ -7,3 +7,6 @@
 |MOE v.3 development|1,500,000 MOE| |
 |onnano.co website development|500,000 MOE| |
 |first exchange|500,000 MOE| |
+|second exchange|300,000 MOE| |
+|third exchange|200,000 MOE| |
+|earlybud|10,000 MOE|0x611a45Af42EbAAAccDEb6EAbB93e1F0590d6C19e|
