@@ -9,5 +9,5 @@
 |first exchange|500,000 MOE| |
 |second exchange|300,000 MOE| |
 |third exchange|200,000 MOE| |
-|participant bounty|1 MOE / 1 onnanoco|90,000,000 onnanocos|
+|participant bounty|1 MOE / 1 onnanoco|users who upload first 90,000,000 onnanocos|
 |earlybud|10,000 MOE|0x611a45Af42EbAAAccDEb6EAbB93e1F0590d6C19e|
